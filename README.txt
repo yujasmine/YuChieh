@@ -1,1 +1,1 @@
-Yu CHieh YU - personal website
+Yu CHieh
