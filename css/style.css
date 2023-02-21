@@ -1,0 +1,133 @@
+html{
+    scroll-behavior: smooth;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Noto Sans TC', sans-serif;
+}
+p,a,input,label,textarea,span,ul,li{
+    font-family: 'Open Sans', sans-serif;
+}
+.btn{
+    background: #88A5AF;
+    color: white;
+    padding: 10px 26px;
+    border-radius: 20px;
+}
+h3{
+    font-size: 40;
+    line-height: 1.5;
+}
+p{
+    color: #707070;
+}
+img{
+    max-width: 100%;
+}
+p.lead{
+    color: black;
+}
+#intro .jumbotron{
+    /*jumbotron p-5 mb-4 bg-light rounded-3 */ 
+    height:70vh;
+    margin-bottom: 0px;
+}
+#intro h1{
+    font-size: 52px;
+    font-weight: 400;
+    line-height: 1.5;
+}
+#intro .container{
+    position: relative;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+#navbar img{
+    width: 115px;
+    background: white;
+}
+li{
+    margin: 10px;
+}
+#about img{
+    width: 400px;
+    border-radius: 5%;
+}
+#about{
+    padding: 80px 0px;
+}
+#about h3{
+    margin-bottom: 80;
+}
+#projects{
+    padding: 80px 0px;
+    background: rgb(248,248,248);
+}
+#projects h3{
+    margin-bottom: 80px; 
+}
+#projects .upper{
+    position: relative;
+}
+#projects .innertext{
+    position: absolute;
+    bottom: 25px;
+    left: 25;
+}
+#projects .innertext span{
+    background: rgba(255,255,255,0.8);
+    padding: 6px 15px;
+    border-radius: 20px;
+}
+#projects .lower h3{
+    font-size: 24px;
+    margin-bottom: 12px;
+    margin-top: 12px;
+}
+#projects .lower i{
+    margin-right: 6px;
+}
+#projects .outer{
+    background: white;
+    box-shadow: 0 0 8px 0 rgba(0,0,0,0.08);
+    margin-top: 50px;
+}
+#projects .lower{
+    padding: 5px 20px 20px 20px;
+}
+#projects a{
+    color: black;
+}
+#projects a:hover{
+    text-decoration: none;
+}
+#contact{
+    padding: 80px 0px;
+}
+.fa-solid{
+    padding: 20p;
+    color: black;
+    font-size: 40px;
+    margin: 10 20;
+}
+.fa-brands{
+    padding: 20p;
+    color: black;
+    font-size: 40px;
+    margin: 10 20;
+}
+@media only screen and (max-width: 768px){
+
+    #about h5{
+        margin: 30px 0px;
+        text-align: center;
+    }
+    #projects .outer{
+        margin-bottom: 30px;
+    }
+    #projects .outer img{
+        width:100%;    
+    }
+
+}
