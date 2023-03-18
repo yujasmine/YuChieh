@@ -1,5 +1,5 @@
-# Yu Chieh YU - Personal Website
-### Jasmine YU | Business Analysis | Master Student in Data Science in EMLyon Business School
+#Yu Chieh YU - Personal Website
+###Jasmine YU | Business Analysis | Master Student in Data Science in EMLyon Business School
 Hello, I'm Jasmine. If you're interested in me for any opportunity, don't hesitate to contact me.
 
 Personal Website: https://yujasmine.github.io/YuChieh/
