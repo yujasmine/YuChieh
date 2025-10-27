@@ -8,7 +8,7 @@ Here is the link of my personal website:
 - **Personal Website**: https://yujasmine.github.io/YuChieh/
 
 > **Jasmine Yu-Chieh YU**  
-> *Based in Paris, France*  
+> *Based in Taipei / Hong Kong*  
 > * **E-mail:** jasmine8670@gmail.com
 > * **LinkedIn:** https://www.linkedin.com/in/yu-chieh-yu/
 > * **Github:** https://github.com/yujasmine
